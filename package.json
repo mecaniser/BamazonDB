@@ -1,0 +1,23 @@
+{
+  "name": "bamazondb",
+  "version": "1.0.0",
+  "description": "Customer oriented Database",
+  "main": "ClientBamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mecaniser/BamazonDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mecaniser/BamazonDB/issues"
+  },
+  "homepage": "https://github.com/mecaniser/BamazonDB#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
