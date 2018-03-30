@@ -1,0 +1,2 @@
+# BamazonDB
+Customer oriented Database 
